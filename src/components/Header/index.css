@@ -1,0 +1,26 @@
+.name {
+    display: inline-block;
+    padding: 0px 20px;
+}
+.logo {
+    display: none;
+    padding: 0px 20px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .name {
+        display: inline-block;
+    }
+    .logo {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 768px) {
+    .name {
+        display: none;
+    }
+    .logo {
+        display: inline-block;
+    }
+}
