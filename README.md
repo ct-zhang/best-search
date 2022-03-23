@@ -1,3 +1,5 @@
+## 项目相关依赖包皆使用yarn安装和运行，下载源码后在根目录执行 yarn 安装依赖包即可
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
